@@ -10,6 +10,8 @@ let mic; // this is so we can get audio in
 var levelsLow;
 var levelsHigh;
 
+// hi
+
 var count = 0
 
 function preload(){
